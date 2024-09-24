@@ -2,7 +2,7 @@
 
 Visite minha documentacao
 
-[![image](/pic/print.png)](https://lvgalvao.github.io/workshop_02_aovivo/)
+[![image](/pic/print.png)](https://rafadlima.github.io/projeto_data_quality/)
 
 
 1. Clone o repositório:
